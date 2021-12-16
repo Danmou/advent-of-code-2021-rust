@@ -9,6 +9,7 @@ edition = "2021"
 colored = "2"
 graphlib = "0.6.3"
 ndarray = "0.15.4"
+pathfinding = "3.0.5"
 phf = { version = "0.10.0", features = ["macros"] }
 strum = "0.23.0"
 strum_macros = "0.23.1"
