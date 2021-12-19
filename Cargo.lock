@@ -13,6 +13,7 @@ dependencies = [
  "ndarray",
  "pathfinding",
  "phf",
+ "rand 0.8.4",
  "strum",
  "strum_macros",
 ]

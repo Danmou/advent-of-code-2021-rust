@@ -13,5 +13,6 @@ hex = "0.4.3"
 ndarray = "0.15.4"
 pathfinding = "3.0.5"
 phf = { version = "0.10.0", features = ["macros"] }
+rand = "0.8.4"
 strum = "0.23.0"
 strum_macros = "0.23.1"
